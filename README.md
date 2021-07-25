@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @elfbread
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning SAS, HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @bsaltbell
+- 📫 @bsaltbell
 
 <!---
 elfbread/elfbread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
