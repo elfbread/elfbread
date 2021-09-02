@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elfbread
 - 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning SAS, HTML/CSS/JavaScript, SQL.
+- 🌱 I’m currently learning SAS, HTML/CSS/JavaScript, SQL, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 @bsaltbell
 
