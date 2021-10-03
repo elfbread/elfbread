@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @elfbread
-- 👀 I’m interested in data analytics.
+- 👋 Hi, I’m @elfbread (Brittany)
+- 👀 I’m interested in data analytics, artificial intelligence, database management.
 - 🌱 I’m currently learning SAS, HTML/CSS/JavaScript, SQL, Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 @bsaltbell
 
 <!---
