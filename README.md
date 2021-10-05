@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elfbread (Brittany)
 - 👀 I’m interested in data analytics, artificial intelligence, database management.
-- 🌱 I’m currently learning SAS, HTML/CSS/JavaScript, SQL, Python.
+- 🌱 I’m currently learning SAS, HTML/CSS/JavaScript, SQL, Python, Tableau.
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 @bsaltbell
 
